@@ -1,1 +1,1 @@
-web: php index.php
+web: heroku-php-nginx index.php
